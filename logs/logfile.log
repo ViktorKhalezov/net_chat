@@ -1,0 +1,43 @@
+INFO  2021-11-10 23:47:09 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:50) - Viktor подключился
+INFO  2021-11-10 23:47:38 [pool-2-thread-2] ru.geekbrains.server.Server (Server.java:50) - Max подключился
+INFO  2021-11-10 23:47:55 [pool-2-thread-2] ru.geekbrains.server.Server (Server.java:105) - Max прислал сообщение
+INFO  2021-11-10 23:47:59 [pool-2-thread-2] ru.geekbrains.server.Server (Server.java:105) - Max прислал сообщение
+INFO  2021-11-10 23:48:05 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:105) - Viktor прислал сообщение
+INFO  2021-11-10 23:48:10 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:105) - Viktor прислал сообщение
+INFO  2021-11-10 23:48:13 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:55) - Viktor отключился
+INFO  2021-11-10 23:48:20 [pool-2-thread-2] ru.geekbrains.server.Server (Server.java:55) - Max отключился
+INFO  2021-11-10 23:51:39 [main] ru.geekbrains.server.Server (Server.java:33) - Сервер запущен
+INFO  2021-11-10 23:52:30 [main] ru.geekbrains.server.Server (Server.java:33) - Сервер запущен
+INFO  2021-11-10 23:53:15 [main] ru.geekbrains.server.Server (Server.java:33) - Сервер запущен
+INFO  2021-11-10 23:55:17 [main] ru.geekbrains.server.Server (Server.java:33) - Сервер запущен
+INFO  2021-11-10 23:55:33 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:51) - Viktor подключился
+INFO  2021-11-10 23:55:50 [pool-2-thread-2] ru.geekbrains.server.Server (Server.java:51) - Max подключился
+INFO  2021-11-10 23:56:00 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:56) - Viktor отключился
+INFO  2021-11-10 23:56:19 [pool-2-thread-2] ru.geekbrains.server.Server (Server.java:56) - Max отключился
+INFO  2021-11-10 23:57:01 [pool-2-thread-2] ru.geekbrains.server.Server (Server.java:56) - null отключился
+INFO  2023-03-15 22:09:30 [main] ru.geekbrains.server.Server (Server.java:33) - Сервер запущен
+INFO  2023-03-15 22:10:15 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:55) - null отключился
+INFO  2023-03-15 22:11:26 [main] ru.geekbrains.server.Server (Server.java:33) - Сервер запущен
+INFO  2023-03-15 22:12:57 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:55) - null отключился
+INFO  2023-03-15 22:18:55 [pool-2-thread-4] ru.geekbrains.server.Server (Server.java:55) - null отключился
+INFO  2023-03-15 22:58:52 [main] ru.geekbrains.server.Server (Server.java:33) - Сервер запущен
+INFO  2023-03-15 23:01:14 [main] ru.geekbrains.server.Server (Server.java:34) - Сервер запущен
+INFO  2023-03-15 23:04:56 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:51) - name3 подключился
+INFO  2023-03-15 23:05:41 [pool-2-thread-2] ru.geekbrains.server.Server (Server.java:51) - Viktor подключился
+INFO  2023-03-15 23:05:52 [pool-2-thread-2] ru.geekbrains.server.Server (Server.java:106) - Viktor прислал сообщение
+INFO  2023-03-15 23:05:59 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:106) - name3 прислал сообщение
+INFO  2023-03-15 23:06:16 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:56) - name3 отключился
+INFO  2023-03-15 23:07:15 [main] ru.geekbrains.server.Server (Server.java:34) - Сервер запущен
+INFO  2023-03-15 23:07:45 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:51) - Viktor подключился
+INFO  2023-03-15 23:08:13 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:106) - Viktor прислал сообщение
+INFO  2023-03-15 23:08:23 [pool-2-thread-2] ru.geekbrains.server.Server (Server.java:51) - Max подключился
+INFO  2023-03-15 23:08:35 [pool-2-thread-2] ru.geekbrains.server.Server (Server.java:106) - Max прислал сообщение
+INFO  2023-03-15 23:08:44 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:106) - Viktor прислал сообщение
+INFO  2023-03-15 23:08:55 [pool-2-thread-2] ru.geekbrains.server.Server (Server.java:106) - Max прислал сообщение
+INFO  2023-03-15 23:09:21 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:56) - Viktor отключился
+INFO  2023-03-15 23:09:29 [pool-2-thread-2] ru.geekbrains.server.Server (Server.java:56) - Max отключился
+INFO  2023-03-15 23:10:46 [main] ru.geekbrains.server.Server (Server.java:33) - Сервер запущен
+INFO  2023-03-15 23:11:17 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:50) - Viktor подключился
+INFO  2023-03-15 23:11:29 [pool-2-thread-2] ru.geekbrains.server.Server (Server.java:50) - Max подключился
+INFO  2023-03-15 23:11:38 [pool-2-thread-1] ru.geekbrains.server.Server (Server.java:55) - Viktor отключился
+INFO  2023-03-15 23:11:45 [pool-2-thread-2] ru.geekbrains.server.Server (Server.java:55) - Max отключился
