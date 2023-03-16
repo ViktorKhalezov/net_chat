@@ -1,31 +1,36 @@
-Net chat
+#Net chat
 
-Description
+##Description
 Net chat for communication of two users.
 
-Tools and technologies used in project
+
+##Tools and technologies used in project
 - Java Core
 - Java Swing
 - JDBC
 - SQLite
 
-Tools needed for launching project
+
+##Tools needed for launching project
 - Java 11 or higher
 - IntelliJ IDEA
 - SQLite 
 
-Instruction for launching project
+
+##Instruction for launching project
 - download project from GitHub
 - open project folder by IntelliJ IDEA
 - run ServerStarter.java
 - run Main.java
 - run ClientTwoStarter.java
 
-Users' credentials for testing program
+
+##Users' credentials for testing program
 - User #1: login: nick1 password: pass1  
 - User #2: login: nick2 password: pass2
 
-Chat commands
+
+##Chat commands
 - to create new user: -auth [login] [password]
 - to log in: -auth [login] [password]
 - to change username: -cname [new username]
@@ -33,21 +38,21 @@ Chat commands
 - to leave chat: -exit
 
 
-Описание
+##Описание
 Сетевой чат для общения двух пользователей
 
-Инструменты и технологии, использованные при создании проекта
+##Инструменты и технологии, использованные при создании проекта
 - Java Core
 - Java Swing
 - JDBC
 - SQLite
 
-Инструменты, необходимые для запуска проекта
+##Инструменты, необходимые для запуска проекта
 - Java 11 or higher
 - IntelliJ IDEA
 - SQLite
 
-Инструкция по запуску проекта
+##Инструкция по запуску проекта
 - скачать архив проекта с GitHub
 - распаковать архив
 - открыть папку проекта в IntelliJ IDEA
@@ -55,11 +60,11 @@ Chat commands
 - запустить файл Main.java
 - запустить файл ClientTwoStarter.java
 
-Данные пользователей для тестирования программы
+##Данные пользователей для тестирования программы
 - Пользователь #1: логин: nick1 пароль: pass1  
 - Пользователь #2: логин: nick2 пароль: pass2
 
-Команды чата
+##Команды чата
 - создать нового пользователя: -auth [логин] [пароль]
 - войти под уже существующим пользователем: -auth [логин] [пароль]
 - сменить имя пользователя: -cname [новое имя]
